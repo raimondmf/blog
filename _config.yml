@@ -13,8 +13,8 @@ locale                   : "en-US"
 title                    : "An ISO journey to Real Security"
 title_separator          : "-"
 subtitle                 : " " # Displayed in the masthead below the title, use " " for no subtitle
-url                      : "https://raimondmf.github.io/blog" # the base hostname & protocol for your site
-baseurl                  : # the subpath of your site, e.g. "/blog"
+url                      : "https://raimondmf.github.io" # the base hostname & protocol for your site
+baseurl                  : "/blog" # the subpath of your site, e.g. "/blog"
 repository               : "raimondmf/blog" # GitHub username/repo-name
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : "/assets/images/logo_zero.png" # Site logo displayed in the masthead
@@ -52,7 +52,7 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-github"
-      url: "https://github.com/perstarke-webdev"
+      url: "https://github.com/raimondmf"
  #   - label: "Instagram"
  #     icon: "fab fa-instagram"
  #     url: "https://www.instagram.com/per.starke/"
