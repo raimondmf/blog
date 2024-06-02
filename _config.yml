@@ -13,9 +13,9 @@ locale                   : "en-US"
 title                    : "An ISO journey to Real Security"
 title_separator          : "-"
 subtitle                 : " " # Displayed in the masthead below the title, use " " for no subtitle
-url                      : "https://raimondmf.github.io/blog/" # the base hostname & protocol for your site
+url                      : "https://raimondmf.github.io/blog" # the base hostname & protocol for your site
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "raimondmf/blog/" # GitHub username/repo-name
+repository               : "raimondmf/blog" # GitHub username/repo-name
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : "/assets/images/logo_zero.png" # Site logo displayed in the masthead
 show-popup               : true # set to false if you don't need / want to show a cookie-banner / cdn-usage popup.
@@ -36,7 +36,7 @@ footer:
   links: # replace the URL's with your own for every link you want to have in your footer.
     - label: "Website"
       icon: "fa fa-globe"
-      url: "https://raimondmf.github.io/blog/"
+      url: "https://raimondmf.github.io/blog"
     - label: "Email"
       icon: "fa fa-envelope"
       url: "mailto: raimondmf@hotmail.com"
