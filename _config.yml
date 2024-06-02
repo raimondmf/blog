@@ -14,7 +14,7 @@ title                    : "An ISO journey to Real Security"
 title_separator          : "-"
 subtitle                 : " " # Displayed in the masthead below the title, use " " for no subtitle
 url                      : "https://raimondmf.github.io" # the base hostname & protocol for your site
-baseurl                  : "/blog" # the subpath of your site, e.g. "/blog"
+baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "raimondmf/blog" # GitHub username/repo-name
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : "/assets/images/logo_zero.png" # Site logo displayed in the masthead
