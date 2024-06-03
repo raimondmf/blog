@@ -10,9 +10,9 @@ main:
   - title: "Journey"
     url: /#section-2
     blank: false
-#  - title: "Section 3"
-#    url: /#section-3
-#    blank: false
+  - title: "About me"
+    url: /#section-3
+    blank: false
 #  - title: "Section 4"
 #    url: /#section-4
 #    blank: false
